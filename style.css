@@ -1,0 +1,12 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
